@@ -1,0 +1,9 @@
+F:\ALL\Netbox\Netbox\Backup\Netbox\bin\Netbox.dll
+F:\ALL\Netbox\Netbox\Backup\Netbox\bin\Netbox.pdb
+F:\ALL\Netbox\Netbox\Backup\Netbox\bin\Netbox.xml
+F:\ALL\Netbox\Netbox\Backup\Netbox\obj\Release\ResolveAssemblyReference.cache
+F:\ALL\Netbox\Netbox\Backup\Netbox\obj\Release\Netbox.Resources.resources
+F:\ALL\Netbox\Netbox\Backup\Netbox\obj\Release\Netbox.vbproj.GenerateResource.Cache
+F:\ALL\Netbox\Netbox\Backup\Netbox\obj\Release\Netbox.dll
+F:\ALL\Netbox\Netbox\Backup\Netbox\obj\Release\Netbox.xml
+F:\ALL\Netbox\Netbox\Backup\Netbox\obj\Release\Netbox.pdb
